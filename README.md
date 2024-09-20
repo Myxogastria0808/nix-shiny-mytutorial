@@ -1,4 +1,4 @@
-# Nix × R
+# Nix × shiny
 
 ## Setup
 
